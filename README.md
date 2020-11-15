@@ -1,2 +1,2 @@
 # Uploading-Files-into-Machine
-xupload.php
+`add the xupload into the machine and upload the files`
